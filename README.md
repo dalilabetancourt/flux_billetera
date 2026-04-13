@@ -1,10 +1,8 @@
 
-![Vista de la aplicación](image/Billetera_flux.png)
+![Vista de la aplicación](./image/Billetera_flux.png)
 
 
 # Billetera Virtual 💳
-
-## Descripcion
 
 Este proyecto consiste en una simulacion de billetera virtual desarrollada como parte de un ejercicio academico. La aplicacion permite gestionar un saldo inicial mediante operaciones basicas como depositos y retiros, actualizando la informacion en tiempo real en la interfaz.
 
